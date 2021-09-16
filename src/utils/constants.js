@@ -1,2 +1,11 @@
 export const ADD_NEW_FILES_TO_LIST = 'ADD_NEW_FILES_TO_LIST';
 export const APP_SESSION_STORAGE = 'APP_SESSION_STORAGE';
+export const TEXT_WELCOME = 'Welcome, user!';
+export const TEXT_DRAG_AND_DROP = 'Drag and drop your files here or';
+export const TEXT_CLICK = 'Click';
+export const TEXT_SUCCESS = 'SUCCESS';
+export const TEXT_CANCEL = 'CANCEL';
+export const LOGO = 'Megauploader5000';
+export const TEXT_LIBRARY = 'Library';
+export const TEXT_SETTINGS = 'Settings';
+export const TEXT_MEDIA = 'Media';

@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+    @variants responsive {
+      .main-layout {
+        display: flex;
+        height: calc(100% - 36px);
+      }
+    }
+}
+@layer base {
+    .selected{
+      @apply bg-gray-900;
+    }
+  }
